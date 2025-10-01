@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /template
+Disallow: /templates/
+
+Sitemap: https://srithikaenterprises.com/sitemap.xml
